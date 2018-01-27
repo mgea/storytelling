@@ -41,6 +41,10 @@ Elige uno de los temas propuestos y comienza a desarrollar tu propia historia...
 - El Robotic Online Short Film Festival se plantea como el primer festival online de cortometrajes con temática robótica [ROS Film Festival](http://rosfilmfestival.com/) 
 
 
+- [rosa, corto de Jesús Orellana](https://www.shortoftheweek.com/2011/11/10/rosa/)
+
+
+
 # Historia U - mUltiversos: universos paralelos
 
 ![la pastilla roja](https://i0.wp.com/www.caninomag.es/wp-content/uploads/2017/03/90s-cabecera_pastillas.jpg?resize=634%2C365&ssl=1)
