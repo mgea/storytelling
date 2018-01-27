@@ -29,7 +29,7 @@ Elige uno de los temas propuestos y comienza a desarrollar tu propia historia...
 
 # Historia R - Robot & IA 
 
-![La imparable marcha de los robots](https://ep01.epimg.net/cultura/imagenes/2016/12/27/babelia/1482842245_843341_1482849963_noticia_normal.jpg)
+![La imparable marcha de los robots](https://imagessl0.casadellibro.com/a/l/t1/50/9788491045250.jpg)
 
 
 - *La imparable marcha de los robots está protagonizando un cambio sustancial no sólo del qué y el cómo hacer las cosas, sino también nuestro propio concepto de humanidad, definir de nuevo quiénes somos…*
