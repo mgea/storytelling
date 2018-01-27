@@ -29,7 +29,9 @@ Elige uno de los temas propuestos y comienza a desarrollar tu propia historia...
 
 # Historia R - Robot & IA 
 
-![https://ep01.epimg.net/cultura/imagenes/2016/12/27/babelia/1482842245_843341_1482849963_noticia_normal.jpg]
+![La imparable marcha de los robots](https://ep01.epimg.net/cultura/imagenes/2016/12/27/babelia/1482842245_843341_1482849963_noticia_normal.jpg)
+
+
 - *La imparable marcha de los robots está protagonizando un cambio sustancial no sólo del qué y el cómo hacer las cosas, sino también nuestro propio concepto de humanidad, definir de nuevo quiénes somos…*
 
 
@@ -55,7 +57,8 @@ Elige uno de los temas propuestos y comienza a desarrollar tu propia historia...
 
 # Historia N - Neolenguas
 
-![influencers](https://i.ytimg.com/vi/GFl7BpQRhPo/maxresdefault.jpg)
+![neolenguas](https://www.fairobserver.com/wp-content/uploads/2014/07/Cyberspace1.jpg)
+
 
 - *Los emoticono nacieron como apoyo al lenguaje escrito, como ayuda para interpretar algo que la lengua escrita no podía representar*
 
