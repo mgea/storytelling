@@ -10,6 +10,10 @@ Facultad de Comunicación y Documentación, Universidad de Granada
 
 Febrero 2018
 
+### Planning
+
+Se puede consultar las tareas a realizar del [Proyecto](https://github.com/mgea/storytelling/projects)
+
 ### Sinopsis
 
 Las historias que se proponen a continuación son un nexo de motivación y el argumento para crear un proyecto narrativo colaborativo. Los enlaces, imágenes y citas que se incluyen servirán como fuente de inspiración.
