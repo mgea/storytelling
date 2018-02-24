@@ -21,7 +21,7 @@ Y por último, el de Corea del Sur, Ahn Sun Hee, practica skeleton.
 
 
 
-Bot: @zoehernandezbot
+**Bot**: @zoehernandezbot
 
 
-Integrantes Grupo: Mágina Cruz Caballero, María Yolanda Gutiérrez Jaramillo, María José Requena Vílchez y Julia Suárez Calvache.
+**Integrantes Grupo**: Mágina Cruz Caballero, María Yolanda Gutiérrez Jaramillo, María José Requena Vílchez y Julia Suárez Calvache.
