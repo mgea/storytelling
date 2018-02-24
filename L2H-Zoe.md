@@ -18,3 +18,4 @@ Uno de esos casos es el de Zoe Hernández, una deportista de curling, la protago
 Otros personajes de la historia son el ruso Vasily Popov que hace patinaje artítico y tiene una habilidad especial: lanzamiento de cuchillos.
 También está la de Corea del Norte, Kang Yang me, que participa en el equipo conjunto de Corea del Norte y Corea del Sur de hockey sobre hielo.
 Y por último, el de Corea del Sur, Ahn Sun Hee, practica skeleton.
+Bot: @zoehernandezbot
