@@ -9,4 +9,7 @@ Canta en la ducha.
 Utilza las redes sociales para no sentirse solo
 (pero no tiene amigos)
 (ni amigas)
-ni portavozas
+ni portavozas.
+¿te sientes perdido?
+¿no entindes nada?
+
