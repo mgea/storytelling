@@ -5,7 +5,7 @@ Tiene las manos frías y los pies calientes
 No tiene cejas ni pestañas
 La frustración de su interior es la fuerza que le mueve a crear sus obras; 
 una forma de expresarse, de comunicarse con el mundo que parece ciego ante sus ojos.
-Canta en la ducha
+Canta en la ducha.
 Utilza las redes sociales para no sentirse solo
 (pero no tiene amigos)
 (ni amigas)
