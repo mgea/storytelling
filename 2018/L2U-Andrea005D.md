@@ -16,7 +16,7 @@ Miembros del grupo: Medusadness (Marta Ortega), Arepadequeso (Rubén), Mericoke 
 
 - ChatBot:  Andrea005 http://t.me/andrea005d_bot  (deleted)
 
-- Banner:  http://utopolis.ugr.es/media/U/Andrea005D/banner/index.html
+- Banner:  http://utopolis.ugr.es/media/HRUN/U/Andrea005D/banner/index.html
 
 - Storytelling: http://utopolis.ugr.es/media/U/Andrea005D/Andrea005D-1.0-pc.zip
 
