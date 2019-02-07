@@ -1,10 +1,10 @@
-## Proyectos de Storytelling 
+# Proyectos de Storytelling 
 
 Digital Storytelling / Narraciones y creatividad en ecosistema digital 2017-18
 
 Página con proyectos publicados en la Web http://utopolis.ugr.es/media/HRUN/ 
 
-# Historias H - Hackeando el sistema 
+## Historias H - Hackeando el sistema 
 
 Proyectos realizados: 
 
@@ -13,19 +13,19 @@ Proyectos realizados:
 - [CK Project](https://github.com/mariina611/storytelling/blob/master/)
 
 
-# Historia R - Robot & IA 
+## Historia R - Robot & IA 
 
 - [ROOT](https://github.com/mjcub/storytelling/blob/master/L2R-root.md)
 - [TheMadLine](https://github.com/MayLuzon/storytelling/blob/master/L2R-TheMadline.md)
 - [Rosseliano](https://github.com/pcabrerizo/storytelling/blob/master/L2N-Rosseliano.md)
 
 
-# Historia U - mUltiversos: universos paralelos
+## Historia U - mUltiversos: universos paralelos
 
 - [Martin MacFlurry](https://github.com/aicitel10/storytelling/blob/master/L2U-M.Macflurry.md)
 - [Andrea005D](https://github.com/Corif/storytelling/blob/master/L2U-meriendacena)
 
-# Historia N - NUEVAS FRONTERAS / tema elegido en clase: TURISMO ESPACIAL    
+## Historia N - Neolenguas 
 
 - [Paquito el aurtista] 
 
