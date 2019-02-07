@@ -1,12 +1,12 @@
-## Proyectos de Storytelling 2017-18
+## Proyectos de Storytelling 
 
-Digital Storytelling / Narraciones y creatividad en ecosistema digital.
+Digital Storytelling / Narraciones y creatividad en ecosistema digital 2017-18
+
+Página con proyectos publicados en la Web http://utopolis.ugr.es/media/HRUN/ 
 
 # Historias H - Hackeando el sistema 
 
-
 Proyectos realizados: 
-
 
 - [Los juegos de la Conspiración](https://github.com/Yogutijara/storytelling/blob/master/L2H-Zoe.md) 
 - [Imabot] 
@@ -15,23 +15,27 @@ Proyectos realizados:
 
 # Historia R - Robot & IA 
 
-- 
+- [ROOT](https://github.com/mjcub/storytelling/blob/master/L2R-root.md)
+- [TheMadLine](https://github.com/MayLuzon/storytelling/blob/master/L2R-TheMadline.md)
+- [Rosseliano](https://github.com/pcabrerizo/storytelling/blob/master/L2N-Rosseliano.md)
 
 
 # Historia U - mUltiversos: universos paralelos
 
-- [Martin MacFlurry](https://github.com/aicitel10/storytelling)
-
+- [Martin MacFlurry](https://github.com/aicitel10/storytelling/blob/master/L2U-M.Macflurry.md)
+- [Andrea005D](https://github.com/Corif/storytelling/blob/master/L2U-meriendacena)
 
 # Historia N - NUEVAS FRONTERAS / tema elegido en clase: TURISMO ESPACIAL    
 
-![neolenguas](https://www.fairobserver.com/wp-content/uploads/2014/07/Cyberspace1.jpg)
+- [Paquito el aurtista] 
 
 
-- *Los emoticono nacieron como apoyo al lenguaje escrito, como ayuda para interpretar algo que la lengua escrita no podía representar*
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CC-BY-SA-Andere_Wikis_%28v%29.svg/200px-CC-BY-SA-Andere_Wikis_%28v%29.svg.png)
 
+Junio 2018 
 
-- Neopalabras: post-verdad.. y [neologismos tecnológicos](https://jackmoreno.com/2014/10/23/100-ejemplos-de-neologismos/) 
+[Creacion y Difusión de Nuevos Contenidos Audiovisuales](http://utopolis.ugr.es/medialab)
 
-- Neo-personajes: Geek, nerd, cyborg, ... y otras cosas más.
+[Facultad de Comunicación y Documentación](http://fcd.ugr.es)
 
+Universidad de Granada
