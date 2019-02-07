@@ -2,15 +2,13 @@
 
 Digital Storytelling / Narraciones y creatividad en ecosistema digital.
 
-# Historia H - Hackeando el sistema 
+# Historias H - Hackeando el sistema 
 
-![Ghost in the Shell-Comic de Shirow Masamune](https://upload.wikimedia.org/wikipedia/ru/thumb/1/1f/GiS.manga.cover.jpg/155px-GiS.manga.cover.jpg)
-
-- *Cuando el sistema te observa, usa tus datos, y manipula, puedes entrar en sus entrañas con ayuda de los hackers y así revertir la situación*. Cita: [Fallo de Sistema 250, Radio3 2017](http://www.rtve.es/alacarta/audios/fallo-de-sistema/fallo-sistema-250-hackeando-sistema-08-01-17/3841523/)
-
-- *Están pasando cosas raras*. Cita: [Fallo de Sistema 279, Radio3 2017](http://blog.rtve.es/fallodesistema/2017/09/279-est%C3%A1n-pasando-cosas-raras-.html)
 
 Proyectos realizados: 
+
+
+- [Los juegos de la Conspiración](https://github.com/Yogutijara/storytelling/blob/master/L2H-Zoe.md) 
 
 
 
