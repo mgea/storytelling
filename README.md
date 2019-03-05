@@ -7,7 +7,7 @@ Propuesta de trabajos para **Creación y Difusión de Nuevos Contenidos Audiovis
 
 Facultad de Comunicación y Documentación, Universidad de Granada 
 
-Proyectos seleccionados de cuross previos http://utopolis.ugr.es/media/HRUN/
+Proyectos seleccionados de cursos previos http://utopolis.ugr.es/media/HRUN/
 
 ### Planning
 
