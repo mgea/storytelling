@@ -7,8 +7,7 @@ Propuesta de trabajos para **Creación y Difusión de Nuevos Contenidos Audiovis
 
 Facultad de Comunicación y Documentación, Universidad de Granada 
 
-
-Febrero 2018
+Proyectos seleccionados de cuross previos http://utopolis.ugr.es/media/HRUN/
 
 ### Planning
 
@@ -63,7 +62,7 @@ Elige uno de los temas propuestos y comienza a desarrollar tu propia historia...
 - *Estamos colapsados por años de futuro distópico: 984, 1997, 2001, 2012, 2015, 2019* 
 
 
-# Historia N - Neolenguas
+# Historia N - NUEVAS FRONTERAS / tema elegido en clase: TURISMO ESPACIAL    
 
 ![neolenguas](https://www.fairobserver.com/wp-content/uploads/2014/07/Cyberspace1.jpg)
 
@@ -73,6 +72,6 @@ Elige uno de los temas propuestos y comienza a desarrollar tu propia historia...
 
 - Neopalabras: post-verdad.. y [neologismos tecnológicos](https://jackmoreno.com/2014/10/23/100-ejemplos-de-neologismos/) 
 
-- Neo-personajes: Geek, nerd, cyborg, ... y otras cosas
 
-L1 - H: Yogutijara
+
+
