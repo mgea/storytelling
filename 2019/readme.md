@@ -19,3 +19,5 @@ Lista de proyectos:
 - [LMJ11](https://github.com/LMJ11/storytelling)
 
 - [Riobaria](https://github.com/Riobaria/storytelling)
+
+- [MelomanoBot](https://github.com/filipdlp/MelomanobotR3/storytelling)
