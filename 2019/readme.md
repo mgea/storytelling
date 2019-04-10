@@ -17,19 +17,19 @@ Proyectos realizados:
 
 - [Nomapaul](https://github.com/Nomapaul/storytelling/blob/master/2019/H2_NOMAPAUL.md) 
 - [H1 Kira del grupo Hack010101er](https://github.com/Hack010101er/storytelling/blob/master/2019/H1.md)
-- [Hackvelina](https://github.com/palaferia/storytelling/blob/master/2019/Plantilla.md)
+- [Hackvelina](https://github.com/palaferia/storytelling/blob/master/2019/Plantilla.md) :star:
 
 
 ## Historia R - Robot & IA 
 
 - [Familia Robot](https://github.com/FamiliaRobot/storytelling)
 - [Bowiessey](https://github.com/Bowiessey/storytelling)
-- [Buelago](https://github.com/buegalo/storytelling/blob/master/2019/Plantillla-proyecto.md)
+- [Buelago Wall-T](https://github.com/buegalo/storytelling/blob/master/2019/Plantillla-proyecto.md) :star: :star: :star:
 
 ## Historia U - mUltiversos: universos paralelos
 
 - [Distopic](https://github.com/Distopic/storytelling) 
-- [LMJ11](https://github.com/LMJ11/storytelling)
+- [Kate de LMJ11](https://github.com/LMJ11/storytelling) :star: :star:
 
 
 ## Historia N - Neolenguas 
