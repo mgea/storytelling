@@ -1,11 +1,7 @@
 
 
-# Proyectos 2019 
 
-Lista de proyectos: 
-
-
-# Proyectos de Storytelling 
+# Proyectos de Storytelling 2019
 
 Digital Storytelling / Narraciones y creatividad en ecosistema digital 2018-19
 
