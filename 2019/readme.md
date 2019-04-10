@@ -18,7 +18,7 @@ Proyectos realizados:
 
 ## Historia R - Robot & IA 
 
-- [Familia Robot](https://github.com/FamiliaRobot/storytelling)
+- [Familia Robot](https://github.com/FamiliaRobot/storytelling/blob/master/2019/Plantillla-proyecto.md)
 - [Bowiessey](https://github.com/Bowiessey/storytelling)
 - [Buelago Wall-T](https://github.com/buegalo/storytelling/blob/master/2019/Plantillla-proyecto.md) :star: :star: :star:
 - [Melomanobot](https://github.com/filipdlp/MelomanobotR3)
