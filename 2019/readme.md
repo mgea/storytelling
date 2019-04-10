@@ -7,7 +7,7 @@ Lista de proyectos:
 
 # Proyectos de Storytelling 
 
-Digital Storytelling / Narraciones y creatividad en ecosistema digital 2017-18
+Digital Storytelling / Narraciones y creatividad en ecosistema digital 2018-19
 
 Página con proyectos publicados en la Web http://utopolis.ugr.es/media/HRUN/ 
 
