@@ -25,6 +25,7 @@ Proyectos realizados:
 - [Familia Robot](https://github.com/FamiliaRobot/storytelling)
 - [Bowiessey](https://github.com/Bowiessey/storytelling)
 - [Buelago Wall-T](https://github.com/buegalo/storytelling/blob/master/2019/Plantillla-proyecto.md) :star: :star: :star:
+- [Melomanobot](https://github.com/filipdlp/MelomanobotR3)
 
 ## Historia U - mUltiversos: universos paralelos
 
