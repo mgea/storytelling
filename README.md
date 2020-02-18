@@ -15,6 +15,7 @@ Plantilla para datos del proyecto: https://github.com/mgea/storytelling/blob/mas
 
 - Proyectos 2018 https://github.com/mgea/storytelling/blob/master/2018/readme.md 
 - Proyectos 2019 https://github.com/mgea/storytelling/blob/master/2019/readme.md
+- Proyectos 2020 https://github.com/mgea/storytelling/blob/master/2020/readme.md
 
 ### Planning
 
