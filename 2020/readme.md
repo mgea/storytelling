@@ -17,7 +17,7 @@ Proyectos realizados:
 
 ## Historia R - Robot & IA 
 
-- [Rob-i]() Robots y humanos conviven , pero los robots no quieren  ser programados para ser libres
+- [Rob-i](https://github.com/emememe/storytelling_20/blob/master/proyecto.md) Robots y humanos conviven , pero los robots no quieren  ser programados para ser libres
 - [Eri]() Niña en mundo dominado por robots e intenta escapar
 - [Miausolini]() Gato de la calle con chip  que se rebela
 
