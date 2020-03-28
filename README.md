@@ -1,11 +1,13 @@
 # storytelling
 Digital Storytelling / Narraciones y creatividad en ecosistema digital, 2020
+
+Actividades y trabajos prácticos de la asignatura de **Creación y Difusión de Nuevos Contenidos Audiovisuales**. 
+
 Facultad de Comunicación y Documentación, Universidad de Granada 
 
 
 ### Qué es storytelling?  
 
-Este espacio recoge las propuestas de trabajos prácticos para **Creación y Difusión de Nuevos Contenidos Audiovisuales**. 
 
 EL objetivo con estos proyectos es experimentar sobre diferentes medios y estilos de publicación la creación de historias, personajes y modos de difusión. 
 
