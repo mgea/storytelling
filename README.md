@@ -13,13 +13,16 @@ EL objetivo con estos proyectos es experimentar sobre diferentes medios y estilo
 
 ### Proyectos seleccionados 
 
+
+Lista de repositorios:
+
 - Proyectos 2018 https://github.com/mgea/storytelling/blob/master/2018/readme.md 
 - Proyectos 2019 https://github.com/mgea/storytelling/blob/master/2019/readme.md
 - Proyectos 2020 https://github.com/mgea/storytelling/blob/master/2020/readme.md
 
 Web con los proyectos seleccionados  http://utopolis.ugr.es/medialab/HRUN/
 
-Plantilla para datos del proyecto: https://github.com/mgea/storytelling/blob/master/HRUN_plantilla.md 
+Plantilla para creación de nuevo proyecto: https://github.com/mgea/storytelling/blob/master/HRUN_plantilla.md 
 
 
 ### Planning
