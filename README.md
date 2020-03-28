@@ -1,21 +1,24 @@
 # storytelling
 Digital Storytelling / Narraciones y creatividad en ecosistema digital, 2020
-
-
-Propuesta de trabajos para **Creación y Difusión de Nuevos Contenidos Audiovisuales** 
-
-
 Facultad de Comunicación y Documentación, Universidad de Granada 
 
-Proyectos seleccionados  http://utopolis.ugr.es/medialab/HRUN/
 
-Plantilla para datos del proyecto: https://github.com/mgea/storytelling/blob/master/HRUN_plantilla.md 
+### Qué es storytelling?  
+
+Este espacio recoge las propuestas de trabajos prácticos para **Creación y Difusión de Nuevos Contenidos Audiovisuales**. 
+
+EL objetivo con estos proyectos es experimentar sobre diferentes medios y estilos de publicación la creación de historias, personajes y modos de difusión. 
 
 ### Proyectos seleccionados 
 
 - Proyectos 2018 https://github.com/mgea/storytelling/blob/master/2018/readme.md 
 - Proyectos 2019 https://github.com/mgea/storytelling/blob/master/2019/readme.md
 - Proyectos 2020 https://github.com/mgea/storytelling/blob/master/2020/readme.md
+
+Web con los proyectos seleccionados  http://utopolis.ugr.es/medialab/HRUN/
+
+Plantilla para datos del proyecto: https://github.com/mgea/storytelling/blob/master/HRUN_plantilla.md 
+
 
 ### Planning
 
