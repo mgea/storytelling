@@ -61,7 +61,7 @@ N1 [Nachovio, el Camarero desequilibrado](https://view.genial.ly/5e9d769360a2da0
 
 N2 [Lisandra, la Maniatica teleoperadora](https://view.genial.ly/5e9840a0d1e1fc0dea3625d6/presentation-lisandra) 
 
-N3 [Pokemon Orgullo Nazarí](http://utopolis.ugr.es/media/HRUN/R/N3-2020_PokemonOrgulloNazari)
+N3 [Pokemon Orgullo Nazarí](http://utopolis.ugr.es/media/HRUN/N/N3-2020_PokemonOrgulloNazari)
 
 
 
