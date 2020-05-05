@@ -55,7 +55,7 @@ R2 [Eri, escapa del mundo de robots](http://utopolis.ugr.es/media/HRUN/R/R2-2020
 
 R3 [Miausolini](http://utopolis.ugr.es/media/HRUN/R/R3-2020_Call_of_Kitten)
 
-R4 [Josebas ....]() (próximamente) 
+R4 [Josebot]((http://utopolis.ugr.es/media/HRUN/R/R4-2020_Josebot) 
 
 N1 [Nachovio, el Camarero desequilibrado](https://view.genial.ly/5e9d769360a2da0dc806fa42/interactive-content-nachovio)
 
