@@ -11,7 +11,7 @@ Página con proyectos publicados en la Web http://utopolis.ugr.es/media/HRUN/
 Proyectos realizados: 
 
 - [Joseba]() Robot obsoleto que vive en Marte (adaptandose al entorno) 
-- [Miquel]() Adolescente solitario programador que crea videojuego con problema en instituto  [Storytelling]() 
+- [Miquel]() Adolescente solitario programador que crea videojuego con problema en instituto  
 - [Porfiplis]() Hacker famoso que no soporta a Kim Jong-un y planea ataques 
 
 
@@ -35,19 +35,34 @@ Proyectos realizados:
 
 
 
-
+## 2B Banners
 
 ![Banners](https://github.com/mgea/storytelling_20/blob/master/2020/banner_2020.png)
 http://utopolis.ugr.es/media/storytelling/2020/banners/
 
 
-### Novelas Visuales 
+## 3B Novelas Visuales 
+
+H1 [Historia de El Banano](http://utopolis.ugr.es/media/HRUN/H/H1-2020_El_Banano) 
+
+H2 [Miquell y los comics](http://utopolis.ugr.es/media/HRUN/H/H2-2020_Miquell)
+
+H3 [Future of Emo](http://utopolis.ugr.es/media/HRUN/H/H3-2020_FutureEmo)
+
+R1 [Rob-i robot que quiere ser libre](http://utopolis.ugr.es/media/HRUN/R/R1-2020_Robi)
+
+R2 [Eri, escapa del mundo de robots](http://utopolis.ugr.es/media/HRUN/R/R2-2020_Eribot)
+
+R3 [Miausolini](http://utopolis.ugr.es/media/HRUN/R/R3-2020_Call_of_Kitten)
+
+R4 [Josebas ....]() (próximamente) 
 
 N1 [Nachovio, el Camarero desequilibrado](https://view.genial.ly/5e9d769360a2da0dc806fa42/interactive-content-nachovio)
 
-N2 [Marselo ]
+N2 [Lisandra, la Maniatica teleoperadora](https://view.genial.ly/5e9840a0d1e1fc0dea3625d6/presentation-lisandra) 
 
-N3 [Lisandra, la Maniatica teleoperadora](https://view.genial.ly/5e9840a0d1e1fc0dea3625d6/presentation-lisandra) 
+N3 [Pokemon Orgullo Nazarí](http://utopolis.ugr.es/media/HRUN/R/N3-2020_PokemonOrgulloNazari)
+
 
 
 
