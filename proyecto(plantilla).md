@@ -54,10 +54,9 @@ Lista completa de emojis de markDown - https://gist.github.com/rxaviers/7360908)
 
 Marzo, 2021
 
-Proyecto dentro de la serie [HRUN Story](https://github.com/mgea/storytelling_21/blob/master/What_is_a_HRUN_story.md) 
-[Proyectos Seleccionados 2020](https://github.com/mgea/storytelling/blob/master/2020/readme.md) 
-[Proyectos Seleccionados 2019](https://github.com/mgea/storytelling/blob/master/2019/readme.md) 
-[Proyectos Seleccionados 2018](https://github.com/mgea/storytelling/blob/master/2018/readme.md) 
+Proyecto dentro de la serie [HRUN Story](https://github.com/mgea/storytelling_21/blob/master/What_is_a_HRUN_story.md) / 
+Proyectos [2020](https://github.com/mgea/storytelling/blob/master/2020/readme.md)  / 
+[2019](https://github.com/mgea/storytelling/blob/master/2019/readme.md) / [2018](https://github.com/mgea/storytelling/blob/master/2018/readme.md) 
 
 CCBY [Creacion y Difusión de Nuevos Contenidos Audiovisuales](http://utopolis.ugr.es/medialab)
 
