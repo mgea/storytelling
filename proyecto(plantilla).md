@@ -26,9 +26,9 @@ Nombre:
 ### Conflicto 
 
 
-- ChatBot: (enlace) 
+- Personaje: (img personaje y enlace a interactivo) 
 
-- Banner:  (enlace) 
+- Banner/Teaser:  (enlace) 
 
 - Storytelling: (enlace) 
 
@@ -54,7 +54,7 @@ Lista completa de emojis de markDown - https://gist.github.com/rxaviers/7360908)
 
 Marzo, 2021
 
-Proyecto dentro de la serie [HRUN Story](https://github.com/mgea/storytelling_21/blob/master/What_is_a_HRUN_story.md) / 
+Proyecto dentro de la serie [HRUN Story](https://github.com/mgea/storytelling_21/blob/master/What_is_a_HRUN_story.md). 
 Proyectos [2020](https://github.com/mgea/storytelling/blob/master/2020/readme.md)  / 
 [2019](https://github.com/mgea/storytelling/blob/master/2019/readme.md) / [2018](https://github.com/mgea/storytelling/blob/master/2018/readme.md) 
 
