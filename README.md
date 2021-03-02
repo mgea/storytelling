@@ -15,8 +15,6 @@ EL objetivo con estos proyectos es experimentar sobre diferentes medios y estilo
 
 Lista de repositorios:
 
-dsadsadas
-
 
 - Proyectos 2018 https://github.com/mgea/storytelling/blob/master/2018/readme.md 
 - Proyectos 2019 https://github.com/mgea/storytelling/blob/master/2019/readme.md
