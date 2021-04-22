@@ -20,7 +20,7 @@ Lista de repositorios:
 - Proyectos 2019 https://github.com/mgea/storytelling/blob/master/2019/readme.md
 - Proyectos 2020 https://github.com/mgea/storytelling/blob/master/2020/readme.md
 
-Web con los proyectos seleccionados  http://utopolis.ugr.es/medialab/HRUN/
+Web con los proyectos seleccionados  http://utopolis.ugr.es/media/HRUN/
 
 Plantilla para creación de nuevo proyecto: https://github.com/mgea/storytelling/blob/master/HRUN_plantilla.md 
 
