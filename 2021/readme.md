@@ -15,7 +15,10 @@ Proyectos realizados:
 
 ## Historia R - Robot & IA 
 
-- 
+- Lilith  :github: https://github.com/jtroco/Lilith-Los-Panas-
+
+
+
 
 ## Historia U - mUltiversos: universos distópicos
 
