@@ -35,10 +35,10 @@ Proyectos realizados:
 - Cecilio G (LORAZEPANES) :octocat: 
 
 
-### Prouctos
+### Productos
 
-- Juego con los personajes: [Asesinato en BBAA](https://arcweave.com/app#/project/zr63kn26ZR)  
-- Teaser de personajes en Protopie  
+- Juego con los personajes en Arcweave: [Asesinato en BBAA](https://arcweave.com/app#/project/zr63kn26ZR)  
+- Teaser de personajes https://github.com/mgea/storytelling_21/blob/master/2021/Pract2B21_Teaser.pdf  en [Protopie](https://www.protopie.io)   (es necesario descargar [APK de protopie](https://play.google.com/store/apps/details?id=io.protopie.companion&hl=en_US&gl=US) 
 
 -----
 
