@@ -10,24 +10,35 @@ Página con proyectos publicados en la Web http://utopolis.ugr.es/media/HRUN/
 
 Proyectos realizados: 
 
-- 
+- Rune (SEVEN) :octocat: 
+- ANATOLI SPUTNIK (GranaSlav) :octocat:
 
 
 ## Historia R - Robot & IA 
 
-- Lilith  :github: https://github.com/jtroco/Lilith-Los-Panas-
+- Lilith (Los Panas) :octocat:  https://github.com/jtroco/Lilith-Los-Panas-
 
+- kB-9 (CAVSQUAD) https://github.com/robertorantes/storytelling_21
 
 
 
 ## Historia U - mUltiversos: universos distópicos
 
-- 
+- Astarte (Coven) :octocat: https://github.com/pmprados/storytelling_21
 
-## Historia N - Nómadas  
+## Historia N - Nómadas y personajes 
 
-- 
 
+- Dolores (Los Sicues) :octocat: https://github.com/celiaalive/LosSicues_Dolores
+- Roberto, el reportero directo (The Last Fake) :octocat: https://github.com/joosecarlos73/Roberto_reporterodirecto
+- Joaquín el del Betis (CAV-Betis) :octocat: https://github.com/miguelrojeda/storytelling_21
+- Cecilio G (LORAZEPANES) :octocat: 
+
+
+### Prouctos
+
+- Juego con los personajes: [Asesinato en BBAA](https://arcweave.com/app#/project/zr63kn26ZR)  
+- Teaser de personajes en Protopie  
 
 -----
 
