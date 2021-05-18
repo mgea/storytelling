@@ -10,7 +10,7 @@ Página con proyectos publicados en la Web http://utopolis.ugr.es/media/HRUN/
 
 Proyectos realizados: 
 
-- Rune (SEVEN) :octocat: 
+- Rune (SEVEN) :octocat: https://github.com/LoryLittle/Rune/blob/main/README.md
 - ANATOLI SPUTNIK (GranaSlav) :octocat:
 
 
