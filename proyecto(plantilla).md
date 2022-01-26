@@ -1,6 +1,6 @@
 
 
-# Proyecto HRUN2021 (template): 
+# Proyecto Storytelling (template): 
 
 Nombre del Equipo: 
 
@@ -25,6 +25,9 @@ Nombre:
 
 ### Conflicto 
 
+
+
+### Productos
 
 - Personaje: (img personaje y enlace a interactivo) 
 
@@ -52,7 +55,7 @@ Lista completa de emojis de markDown - https://gist.github.com/rxaviers/7360908)
 
 
 
-Marzo, 2021
+Febrero, 202X
 
 Proyecto dentro de la serie [HRUN Story](https://github.com/mgea/storytelling_21/blob/master/What_is_a_HRUN_story.md). 
 Proyectos seleccionados de  [2021](https://github.com/mgea/storytelling/blob/master/2021/readme.md) / [2020](https://github.com/mgea/storytelling/blob/master/2020/readme.md)  / 
