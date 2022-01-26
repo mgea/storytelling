@@ -6,28 +6,19 @@ Digital Storytelling / Narraciones y creatividad en ecosistema digital 2020-21
 
 Página con proyectos publicados en la Web http://utopolis.ugr.es/media/HRUN/ 
 
-## Historias H - Hackeando el sistema 
-
-Proyectos realizados: 
+## Historias Scify  (Cyberpunk)
 
 - Rune (SEVEN) :octocat: https://github.com/LoryLittle/Rune/blob/main/README.md
+
 - ANATOLI SPUTNIK (GranaSlav) :octocat:
-
-
-## Historia R - Robot & IA 
 
 - Lilith (Los Panas) :octocat:  https://github.com/jtroco/Lilith-Los-Panas-
 
 - kB-9 (CAVSQUAD) https://github.com/robertorantes/storytelling_21
 
-
-
-## Historia U - mUltiversos: universos distópicos
-
 - Astarte (Coven) :octocat: https://github.com/pmprados/storytelling_21
 
-## Historia N - Nómadas y personajes 
-
+## Historias Reality (tribus urbanas) 
 
 - Dolores (Los Sicues) :octocat: https://github.com/celiaalive/LosSicues_Dolores
 - Roberto, el reportero directo (The Last Fake) :octocat: https://github.com/joosecarlos73/Roberto_reporterodirecto
