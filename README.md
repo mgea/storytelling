@@ -23,7 +23,7 @@ Lista de repositorios:
 
 Web con los proyectos seleccionados  http://utopolis.ugr.es/media/HRUN/
 
-Plantilla para creación de nuevo proyecto: https://github.com/mgea/storytelling/blob/master/HRUN_plantilla.md 
+Plantilla para creación de nuevo proyecto: https://github.com/mgea/storytelling/blob/master/proyecto(plantilla).md 
 
 
 ### Planning
