@@ -31,9 +31,9 @@ Plantilla para creación de nuevo proyecto: https://github.com/mgea/storytelling
 Se puede consultar las tareas a realizar del [Proyecto](https://github.com/mgea/storytelling/projects)
 
 
-### ¿Qué es una historia HRUN?
+### ¿Qué es un storytelling digital?
 
 
-Todas las historia están basadas en una de estas líneas argumentales, [entra aquí para conocer que es HRUN](https://github.com/mgea/storytelling_21/blob/master/What_is_a_HRUN_story.md)  
+Todas las historia están basadas en una de estas líneas argumentales, [entra aquí para ver ideas para crear tu historia](https://github.com/mgea/storytelling/blob/master/What_is_a_digital_storytelling.md)  
 
 
