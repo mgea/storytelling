@@ -19,16 +19,16 @@ Página con proyectos publicados en la Web http://utopolis.ugr.es/media/HRUN/
 - (1) Crónicas de un gótico indignado :octocat:  https://github.com/BeaFM/Cronicas-de-un-gotico-indignado_22
 - (2) La falsa de Angeles :octocat: https://github.com/ClaraMolina00/La-falsa-de-Angeles_22
 - (3) Rocío Salud Mental :octocat: https://github.com/albalinares20000/Rocio_salud_mental_22
-- (5) Zeus :octocat:
 - (9) Eduardo Falillo :octocat:
-- (12) Soñar es gratis :octocat:
 - (14) El Rastro :octocat:
 
 
 ## Historias Comic (animados) 
 
+- (5) Zeus :octocat:
 - (10) A color full Show :octocat: https://github.com/MissyArt/Colourful-Show_22
-- (13) eConejo Adventures
+- (13) eConejo Adventures :octocat:
+- (12) Soñar es gratis :octocat:
 
 
 
