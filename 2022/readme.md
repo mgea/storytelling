@@ -7,11 +7,11 @@ Página con proyectos publicados en la Web http://utopolis.ugr.es/media/HRUN/
 
 ## Historias Ficción/Cyberpunk
 
-- (4) Rebechan :octocat: 
+- (4) Rebechan/Magicchan :octocat: https://github.com/gonzalomao/Magic-Chan_22
 - (6) Lexi :octocat: https://github.com/martajulian/ProyectoMango_22
-- (7) Barnie el jardinero :octocat:
+- (7) Barnie el jardinero :octocat: https://github.com/Jube-san/De-tos-en-tos
 - (8) El Mar Blanco :octocat: https://github.com/Andrewmendo/storytelling 
-- (11) er Carlillos  :octocat: 
+- (11) er Carlillos  :octocat: https://github.com/evasola00/ElKebabTrascendental_22
 
 
 ## Historias Reality (tribus urbanas) 
@@ -20,19 +20,17 @@ Página con proyectos publicados en la Web http://utopolis.ugr.es/media/HRUN/
 - (2) La falsa de Angeles :octocat: https://github.com/ClaraMolina00/La-falsa-de-Angeles_22
 - (3) Rocío Salud Mental :octocat: https://github.com/albalinares20000/Rocio_salud_mental_22
 - (9) Eduardo Falillo :octocat:
-- (14) El Rastro :octocat:
+- (14) El Rastro :octocat: https://github.com/ne0samu/EL_RASTRO_GRUPO14
 
 
 ## Historias Comic (animados) 
 
-- (5) Zeus :octocat:
+- (5) Zeus :octocat: 
 - (10) A color full Show :octocat: https://github.com/MissyArt/Colourful-Show_22
 - (13) eConejo Adventures :octocat: https://github.com/ToVegaBerLozanoAl/storytelling
 - (12) Soñar es gratis :octocat:
 
 
-
-### Productos
 
 
 
