@@ -4,6 +4,7 @@
 
 Nombre del Equipo: 2
 
+Este proyecto viene de: [Storytelling](https://github.com/mgea/storytelling)
 Proyecto (código): 
 
 Tipo/Género:  
@@ -57,9 +58,9 @@ Incluir lista de personas del grupo
 Se puede añadir enlace a página personal de github o lo que se quiera...(optativo)
 -->
 
-- 👱‍♀️: Zaira
-- :woman: Paula
-- :woman: Diana
+- 👱‍♀️ Zaira Vendrell
+- :woman: Paula González
+- :woman: Diana Marteniuc
 
 <!---
 Lista completa de emojis de markDown - https://gist.github.com/rxaviers/7360908) 
