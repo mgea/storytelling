@@ -2,35 +2,35 @@
 
 # Proyecto Storytelling (template): 
 
-Nombre del Equipo: 
+Nombre del Equipo: Equipo 9
 
 Proyecto (código): 
 
 Tipo/Género:  
-- [x] FictionCiberpunk  
-- [ ] Reality/tribus urbanas  
+- [ ] FictionCiberpunk  
+- [x] Reality/tribus urbanas  
 - [ ] Comic
 
 
 ## Resumen
-
+Chica que se revela y cambia su vida de manera drástica al dejar la carrera universitaria y trabajar en un negocio para acabar enamorándose de un jefe mayor que ella y casado
 
 ### Personaje
 
 ![](https://github.com/mgea/storytelling/blob/master/img-nobody.png)
 
-Nombre: 
+Nombre: Dayana
 
 
 ### Historia
-
+Chica que se revela y cambia su vida de manera drástica al dejar la carrera universitaria y trabajar en un negocio para acabar enamorándose de un jefe mayor que ella y casado
 
 ### Contexto
-
+España, Granada (2023)
 
 ### Conflicto 
 
-
+Personal, familiar, intercultural, laboral y amoroso
 
 ### Productos
 
