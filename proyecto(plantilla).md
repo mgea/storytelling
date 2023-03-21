@@ -1,6 +1,6 @@
 
 
-# Proyecto Storytelling (template): 
+# Proyecto Storytelling (template): Onyx
 
 Nombre del Equipo: 
 
