@@ -1,15 +1,15 @@
 
 
-# Proyecto Storytelling (template): 
+# Proyecto Storytelling (template): Lucaelzapatoizquierdo
 
-Nombre del Equipo: 
+Nombre del Equipo: gruppo 6
 
 Proyecto (código): 
 
 Tipo/Género:  
-- [x] FictionCiberpunk  
+- [ ] FictionCiberpunk  
 - [ ] Reality/tribus urbanas  
-- [ ] Comic
+- [x] Comic
 
 
 ## Resumen
