@@ -5,6 +5,7 @@
 Nombre del Equipo: 2
 
 Este proyecto viene de: [Storytelling](https://github.com/mgea/storytelling)
+
 Proyecto (código): 
 
 Tipo/Género:  
