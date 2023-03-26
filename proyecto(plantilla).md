@@ -27,7 +27,7 @@ Nombre: Ónyx (Nyx)
 ### Historia
 Ónyx (Nyx) es una chica en sus veintes que vive en una sociedad ciberpunk. Es hija de empresarios que tienen la mayor empresa fabricante de chips que sustenta a la ciudad. Siendo de clase alta, ella trabaja como informática en el negocio familiar, lista para heredarla.  Dichos chips se insertan las personas en una ranura de su cuerpo y poseen actualizaciones y habilidades que la persona puede obtener automáticamente. Han subido en popularidad las dos últimas décadas y ahora la gente es adicta a ellas.
 
-Ónyx, además, tiene un pato rosa ciborg de mascota llamado T.O.F.U, que le regalaron sus padres y siempre ha tenido con ella, y que es un poco torpe que necesita ser reseteado cada rato.
+Ónyx, además, tiene un pato rosa ciborg de mascota llamado T.O.F.U, que le regalaron sus padres y siempre ha tenido con ella. Es un poco torpe que necesita ser reseteado cada rato.
 
 ### Contexto
 
