@@ -1,6 +1,6 @@
 
 
-# Proyecto Storytelling : Ónyx
+# Proyecto Storytelling: Ónyx: Cyberhood
 
 Nombre del Equipo: 2
 
@@ -15,14 +15,15 @@ Tipo/Género:
 
 
 ## Resumen
-Ónyx decide cierto día sacara a pasear a T.O.F.U, pero este escapa y acaba en los suburbios. Allí ve la gran diferencia de clases con sus propios ojos y lo mal que viven los pobres, quienes están infectados y enfermos por los chips defectuosos que vende la empresa de sus padres, quienes la han estado engañando durante todo este tiempo. Por ello decide aliarse con un grupo de rebeldes para llevar a la empresa a la bancarrota.
+Ónyx decide cierto día sacara a pasear a T.O.F.U, su mascota, un pato rosa, pero este escapa y acaba en los suburbios. Allí ve la gran diferencia de clases con sus propios ojos y lo mal que viven los pobres, quienes están infectados y enfermos por los chips defectuosos que vende la empresa de sus padres, quienes la han estado engañando durante todo este tiempo. Por ello decide aliarse con un grupo de rebeldes para llevar a la empresa a la bancarrota.
 
 ### Personaje
 
-![](https://celes.club/src.php?src=https://celes.club/uploads/posts/2022-10/thumbs/1666972036_7-celes-club-p-kiberpank-begushchie-po-krayu-arti-pintere-7.jpg&w=260&h=390)
+![](https://steamuserimages-a.akamaihd.net/ugc/1696129331815124182/944176E8AD8F755C0AD71A218B365050D412E5AF/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false)
 
 Nombre: Ónyx (Nyx)
 
+![image](https://user-images.githubusercontent.com/128467096/228174289-5c2a5da4-f15c-4ba2-8d75-021c817b2487.png)
 
 ### Historia
 Ónyx (Nyx) es una chica en sus veintes que vive en una sociedad ciberpunk. Es hija de empresarios que tienen la mayor empresa fabricante de chips que sustenta a la ciudad. Siendo de clase alta, ella trabaja como informática en el negocio familiar, lista para heredarla.  Dichos chips se insertan las personas en una ranura de su cuerpo y poseen actualizaciones y habilidades que la persona puede obtener automáticamente. Han subido en popularidad las dos últimas décadas y ahora la gente es adicta a ellas.
@@ -38,7 +39,8 @@ Nombre: Ónyx (Nyx)
 ### Productos
 
 - Personaje: (img personaje y enlace a interactivo) 
-
+   
+   [Enlace al test interactivo](https://paulagonzalez.h5p.com/content/1291913817454555757/embed)
 
 - Banner/Teaser:  (enlace) 
 
