@@ -10,6 +10,8 @@ Digital Storytelling / Narraciones y creatividad en ecosistema digital 2022-23
   * https://cloud.protopie.io/p/44f4eac019ff803433ddd515
   * https://arcweave.com/app/project/1M62axGEwr?board=630fdb8a-48d6-473e-9974-2460f7eb2b41&scale=0.444445&coords=-10178.3,-9950.7
 - (3) La abuelita Dorothea	https://github.com/norahdez/storytelling/blob/master/proyecto(New%20Youth).md
+  * https://cloud.protopie.io/p/9942a4d8d25dcd2f82783683
+  * https://arcweave.com/app/project/9WErnDyEYk/play
 - (5) Shak 2-22	https://github.com/julsbana/storytelling
   * https://cloud.protopie.io/p/b68a2b71fa389eeb3bf656b8	
   * https://arcweave.com/app/project/vVlj3yQEgq/play    
