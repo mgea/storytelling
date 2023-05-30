@@ -45,7 +45,7 @@ Nombre: Ónyx (Nyx)
    [Protopie](https://cloud.protopie.io/p/44f4eac019ff803433ddd515)
  
 
-- Storytelling: (enlace) 
+- Storytelling:  
    [Ren´py](https://zairav.github.io/onyxcyberhood/)
 
 
