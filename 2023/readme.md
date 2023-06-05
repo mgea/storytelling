@@ -9,7 +9,7 @@ Digital Storytelling / Narraciones y creatividad en ecosistema digital 2022-23
 - (2) Ónyx	[https://github.com/ZairaV/storytelling](https://github.com/ZairaV/storytelling/blob/master/proyecto(plantilla).md) 
   * https://cloud.protopie.io/p/44f4eac019ff803433ddd515
   * https://arcweave.com/app/project/1M62axGEwr?board=630fdb8a-48d6-473e-9974-2460f7eb2b41&scale=0.444445&coords=-10178.3,-9950.7
-  * https://zairav.github.io/onyxcyberhood/
+  * :octocat: https://zairav.github.io/onyxcyberhood/
 
 
 - (3) La abuelita Dorothea	https://github.com/norahdez/storytelling/blob/master/proyecto(New%20Youth).md
@@ -30,7 +30,7 @@ Digital Storytelling / Narraciones y creatividad en ecosistema digital 2022-23
 - (9) Abril	https://github.com/belenchuu01/storytelling
   * https://arcweave.com/app/project/4OlzDY46qP/play
   * https://cloud.protopie.io/p/2b43e0791884e59bbaafb30c
-  * https://belenchuu01.github.io
+  * :octocat: https://belenchuu01.github.io
 
 
 ## Historias Comic (animados) 
