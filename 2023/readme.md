@@ -38,13 +38,17 @@ Digital Storytelling / Narraciones y creatividad en ecosistema digital 2022-23
 - (4) LOLALOLITA	https://github.com/alexxiapav/storytelling (https://github.com/alexxiapav/storytelling/blob/master/proyecto%234.md)
   * https://cloud.protopie.io/p/6ea6d7b206054950590f620b
   * https://arcweave.com/app/project/omE74KD6RN
+
+
 - (6) Luca el zapato izquierdo	https://github.com/LucaIzquierdo/storytelling
   * https://cloud.protopie.io/p/27af2f21e48243ec0eb75e25
   * https://arcweave.com/app/project/qzEe93OEeL?board=630fdb8a-48d6-473e-9974-2460f7eb2 b41&scale=0
-- (8)	Andréh Boquerón	https://github.com/sakiatun/storytelling
+
+
+- (8)	Andréh Boquerón	[https://github.com/sakiatun/storytelling](https://github.com/sakiatun/storytelling/blob/master/proyecto.md)
   * https://cloud.protopie.io/p/993b54b978dc525617bb870f
   * https://arcweave.com/app/project/kWloRBR0qd
-  *
+  
 
 
 
