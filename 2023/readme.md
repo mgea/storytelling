@@ -17,7 +17,7 @@ Digital Storytelling / Narraciones y creatividad en ecosistema digital 2022-23
   * https://arcweave.com/app/project/9WErnDyEYk/play
 
 
-- (5) Shak 2-22	https://github.com/julsbana/storytelling
+- (5) Shak 2-22	[https://github.com/julsbana/storytelling](https://github.com/julsbana/storytelling/blob/master/proyecto.md)
   * https://cloud.protopie.io/p/b68a2b71fa389eeb3bf656b8	
   * https://arcweave.com/app/project/vVlj3yQEgq/play    
 
