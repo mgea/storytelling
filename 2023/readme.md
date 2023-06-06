@@ -53,7 +53,7 @@ Digital Storytelling / Narraciones y creatividad en ecosistema digital 2022-23
 
 
 
-Enlace a **[presentaciones](https://github.com/mgea/storytelling/blob/master/2023/presentaciones.md)**
+### Enlace a **[presentaciones](https://github.com/mgea/storytelling/blob/master/2023/presentaciones.md)** y resultados 
 
 -----
 
