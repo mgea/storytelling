@@ -42,6 +42,10 @@ playgroundAI - generar fondos
 
 ![luca](https://github.com/mgea/storytelling/blob/master/2023/luca.jpg)
 
+### Luca 
+
+![andrei](https://github.com/mgea/storytelling/blob/master/2023/andrei.jpg)
+
 
 
 
