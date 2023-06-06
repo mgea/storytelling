@@ -55,13 +55,13 @@ Digital Storytelling / Narraciones y creatividad en ecosistema digital 2022-23
 
 ### Enlace a **[presentaciones](https://github.com/mgea/storytelling/blob/master/2023/presentaciones.md)** y resultados 
 
+
+
+
 -----
-
-
-
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CC-BY-SA-Andere_Wikis_%28v%29.svg/200px-CC-BY-SA-Andere_Wikis_%28v%29.svg.png)
 
-Mayo 2023 
+Junio 2023 
 
 [Creacion y Difusión de Nuevos Contenidos Audiovisuales](http://utopolis.ugr.es/medialab)
 
