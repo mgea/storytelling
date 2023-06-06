@@ -48,4 +48,17 @@ playgroundAI - generar fondos
 
 
 
+## Resultados 
+
+![valroaciones](https://github.com/mgea/storytelling/blob/master/2023/valora.png)
+
+![clase](https://github.com/mgea/storytelling/blob/master/2023/claseAll.jpg)
+
+
+
+
+
+
+
+
 
