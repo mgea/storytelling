@@ -1,4 +1,4 @@
-# Presentaciones 2023 (junion 2023)
+# Presentaciones 2023 (junio 2023)
 
 
 ### Dante elegante 
