@@ -28,6 +28,16 @@
 
 ### Dorothea 
 
-![Dorothea](https://github.com/mgea/storytelling/blob/master/2023/dorothea.jpg)
+![Dorothea](https://github.com/mgea/storytelling/blob/master/2023/dorohtea.jpg)
 
 playgroundAI - generar fondos 
+
+
+### Lola Lolita 
+
+![lola](https://github.com/mgea/storytelling/blob/master/2023/lola.jpg)
+
+
+
+
+
