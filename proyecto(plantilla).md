@@ -2,7 +2,7 @@
 
 # Proyecto Storytelling (template): 
 
-Nombre del Equipo: 
+Nombre del Equipo: Vitamina C
 
 Proyecto (código): 
 
@@ -57,9 +57,10 @@ Incluir lista de personas del grupo
 Se puede añadir enlace a página personal de github o lo que se quiera...(optativo)
 -->
 
-- :man: minombre
-- :woman: minombre
-- :woman: minombre 
+- ♏: Clara Cagigas Amaro
+- ♒: Alba María Reyes Polo
+- ♑: Laura Rodríguez Déniz
+- ♑: Sabina Rosado Romero 
 
 <!---
 Lista completa de emojis de markDown - https://gist.github.com/rxaviers/7360908) 
