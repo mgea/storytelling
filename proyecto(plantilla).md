@@ -1,6 +1,6 @@
 
 
-# Proyecto Storytelling (template): 
+# Proyecto Storytelling: 
 
 Nombre del Equipo: 16-solo
 
@@ -20,11 +20,7 @@ Lia es una catfolk que vive en un bosque colindante con el Feywild. Hace muchís
 
 ### Personaje
 
-
-
-
 Nombre: Lia
-https://miro.com/app/board/uXjVOKlVcGA=/?moveToWidget=3458764581688171038&cot=14
 ![image](https://github.com/angerygremlin/storytelling/blob/Gu%C3%ADa-para-encontrar-el-amor-en-el-Feywild/Ficha%20de%20personaje.JPG)
 
 ### Historia
@@ -32,7 +28,8 @@ Lia es una catfolk que habita un bosque encantado. Se ocupa de la tienda, que pa
 
 
 ### Contexto
-
+[Faerun lore](https://reinosolvidados.fandom.com/wiki/Faer%C3%BBn)
+[Feywild](https://forgottenrealms.fandom.com/wiki/Feywild)
 
 ### Conflicto 
 Su soledad le abruma y necesita compañía en su prisión mágica, pero no ha interactuado con nadie en mucho tiempo. 
@@ -40,12 +37,12 @@ Su soledad le abruma y necesita compañía en su prisión mágica, pero no ha in
 
 ### Productos
 
-- Test interactivo: https://h5p.org/node/1478551
+[Test interactivo: Averigua tu aventurero pretendiente](https://h5p.org/node/1478551)
 
-- Banner/Teaser:  (enlace) 
+- Banner/Teaser:  
 
 
-- Storytelling: (enlace) 
+- Storytelling: 
 
 
 
@@ -62,9 +59,8 @@ Incluir lista de personas del grupo
 Se puede añadir enlace a página personal de github o lo que se quiera...(optativo)
 -->
 
-- :man: minombre
-- :woman: minombre
-- :woman: minombre 
+- :man: Alexis Barbudo Ortega
+
 
 <!---
 Lista completa de emojis de markDown - https://gist.github.com/rxaviers/7360908) 
