@@ -2,7 +2,7 @@
 
 # Proyecto Storytelling (template): 
 
-Nombre del Equipo: 
+Nombre del Equipo: 16-solo
 
 Proyecto (código): 
 
@@ -11,31 +11,36 @@ Tipo/Género:
 - [ ] Reality/tribus urbanas  
 - [ ] Comic
 
-
+## Nombre de la historia: 
+Guía para encontrar el amor en el Feywild. 
+ 
 ## Resumen
+Lia es una catfolk que vive en un bosque colindante con el Feywild. Hace muchísimos años, acabó allí por casualidad y nunca más ha podido salir de su pequeña tienda de pociones. La soledad se la está comiendo y está decidida a tener compañía. Una nueva remesa de aventureros llega a la tienda, solo que no saben que Lia hará todo lo posible para que al menos uno de ellos se quede. 
 
 
 ### Personaje
 
-![](https://github.com/mgea/storytelling/blob/master/img-nobody.png)
 
-Nombre: 
+
+
+Nombre: Lia
+https://miro.com/app/board/uXjVOKlVcGA=/?moveToWidget=3458764581688171038&cot=14
 
 
 ### Historia
+Lia es una catfolk que habita un bosque encantado. Se ocupa de la tienda, que parece reponerse y gestionarse sola. No recuerda mucho de su vida mortal, solo que antes era una aventurera. Echa de menos poder viajar y conocer a gente por el camino, necesita un cambio en su vida tranquila y estática. 
 
 
 ### Contexto
 
 
 ### Conflicto 
-
+Su soledad le abruma y necesita compañía en su prisión mágica, pero no ha interactuado con nadie en mucho tiempo. 
 
 
 ### Productos
 
-- Personaje: (img personaje y enlace a interactivo) 
-
+- Test interactivo: https://h5p.org/node/1478551
 
 - Banner/Teaser:  (enlace) 
 
@@ -67,7 +72,7 @@ Lista completa de emojis de markDown - https://gist.github.com/rxaviers/7360908)
 
 
 
-Febrero, 202X
+Marzo, 2024
 
 Proyecto dentro de la serie [COMAV Stories]8https://github.com/mgea/storytelling_22/blob/master/What_is_a_HRUN_story.md) y su versión [online](https://utopolis.ugr.es/media/HRUN/)  
 Proyectos seleccionados de [2022](https://github.com/mgea/storytelling/blob/master/2022/readme.md) / [2021](https://github.com/mgea/storytelling/blob/master/2021/readme.md) / [2020](https://github.com/mgea/storytelling/blob/master/2020/readme.md)  / 
