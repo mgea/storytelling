@@ -25,7 +25,7 @@ Lia es una catfolk que vive en un bosque colindante con el Feywild. Hace muchís
 
 Nombre: Lia
 https://miro.com/app/board/uXjVOKlVcGA=/?moveToWidget=3458764581688171038&cot=14
-
+https://github.com/angerygremlin/storytelling/blob/Gu%C3%ADa-para-encontrar-el-amor-en-el-Feywild/Ficha%20de%20personaje.JPG
 
 ### Historia
 Lia es una catfolk que habita un bosque encantado. Se ocupa de la tienda, que parece reponerse y gestionarse sola. No recuerda mucho de su vida mortal, solo que antes era una aventurera. Echa de menos poder viajar y conocer a gente por el camino, necesita un cambio en su vida tranquila y estática. 
