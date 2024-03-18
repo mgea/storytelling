@@ -2,18 +2,22 @@
 
 # Proyecto Storytelling (template): 
 
-Nombre del Equipo: 
+Nombre del Equipo: Perritos
 
-Proyecto (código): 
+  Nur Hentaie Kan
+  Pablo Pérez Jaime
+
+Proyecto (código): Rescate Animal Granada
 
 Tipo/Género:  
-- [x] FictionCiberpunk  
-- [ ] Reality/tribus urbanas  
-- [ ] Comic
+- [ ] FictionCiberpunk  
+- [x] Reality/tribus urbanas  
+- [ ] Comicmir
 
 
 ## Resumen
 
+En el refugio "rescate animal Granada" se cuentan las historias de los distintos animales que han llegado a su centro. Entre ellos tenemos a un perro abandonado por no ser pura raza, y otro por tener los dientes "chuecos". Allí, cuidan a los perros desfavorecidos y les cortal el pelo.
 
 ### Personaje
 
@@ -57,9 +61,8 @@ Incluir lista de personas del grupo
 Se puede añadir enlace a página personal de github o lo que se quiera...(optativo)
 -->
 
-- :man: minombre
-- :woman: minombre
-- :woman: minombre 
+- :man: Pablo Pérez Jaime
+- :woman: Nur Hentaie Kan
 
 <!---
 Lista completa de emojis de markDown - https://gist.github.com/rxaviers/7360908) 
