@@ -59,8 +59,8 @@ Digital Storytelling / Narraciones y creatividad en ecosistema digital 2023/24
   * Interactivo: https://h5p.org/node/1479674
  
 - (5) **Rescate animal**
-   * Github:
-   * Interacivo:
+   * Github: [https://github.com/NurHK/storytelling](https://github.com/NurHK/storytelling/blob/master/proyecto(plantilla).md)
+   * Interacivo: https://h5p.org/node/1479617
      
 
 ## Historias Comic (animados) 
