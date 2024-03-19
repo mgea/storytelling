@@ -6,21 +6,30 @@ Digital Storytelling / Narraciones y creatividad en ecosistema digital 2023/24
 
 ## Historias Ficción/Cyberpunk
 
-- (2) Raoul el Travieso
+- (2) **Raoul el Travieso**
 
   * Github: https://github.com/PresidenteGalactico/my_storytelling
   
   * Interactivo:  https://h5p.org/h5p/embed/1479679
   
-
-- (3) Astrid
+- (7) **Vitamina C**
+  * Github: https://github.com/sabir0r0/storytelling/blob/master/proyecto(plantilla).md
+  * Interactivo Playlist: https://h5p.org/node/1479251
+  * Interactivo personaje: https://h5p.org/node/1479233
+  
+- (3) **Astrid**
 
   * Github: 
   
   * Interactivo:
- 
 
-- (16) FeyWild
+
+- (2) **Raoul*+ (A.K.A. El Travieso)
+ * Github: https://github.com/PresidenteGalactico/my_storytelling
+ * INteractivo: https://h5p.org/h5p/embed/1479679
+
+
+- (16) **FeyWild**
   * Presentación https://drive.google.com/file/d/1LNKdylB4MoMwK_UBgq4HfgT_24OAn6s5/view?usp=drivesdk
   * Github. [https://github.com/angerygremlin/storytelling/tree/Gu%C3%ADa-para-encontrar-el-amor-en-el-Feywild](https://github.com/angerygremlin/storytelling/blob/Gu%C3%ADa-para-encontrar-el-amor-en-el-Feywild/proyecto(plantilla).md)
   * Interactivo: https://h5p.org/node/1478551
@@ -30,9 +39,24 @@ Digital Storytelling / Narraciones y creatividad en ecosistema digital 2023/24
 
 ## Historias Reality (tribus urbanas) 
 
+- (8) **Pepe el Pistolas**: Falso secuestro
+  * https://github.com/Glorialozanom/my_storytelling/blob/main/README.md
+  * https://falsosecuestro.h5p.com/content/1292222835105769527
+ 
+  
+- 
 
 ## Historias Comic (animados) 
 
+
+- (17) **PIXEL**: el error del sistema
+  *  Github https://github.com/JoyHernandezBautista/storytelling/tree/JoyBranch
+  *  Quiz de personalidad: https://h5p.org/node/1479471
+  *  Pixelgrama: https://h5p.org/node/1478964
+
+- (13) **MARXÚPITER**: Guerra Entre Dos Mundos
+  * Github: https://github.com/itsnxyrx/my_storytelling/blob/main/MARX%C3%9APITER.md
+  * Interactivo: https://marxupiter.h5p.com/content/1292222437719669167
 
 ### Enlace a **[presentac iones] 
 
