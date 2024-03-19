@@ -21,7 +21,7 @@ En el refugio "rescate animal Granada" se cuentan las historias de los distintos
 
 ### Personaje
 
-![](https://github.com/mgea/storytelling/blob/master/img-nobody.png)
+![](https://github.com/NurHK/storytelling/pexels-juan-mendez-3075517.jpg)
 
 Nombre: 
 
