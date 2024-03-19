@@ -40,8 +40,9 @@ Mientras que la salud de Josema deteriora por su edad, el refugio de perros podr
 
 ### Productos
 
-#### - Personaje: 
+#### - Personaje:
 ![](https://github.com/NurHK/storytelling/blob/master/dogminiquee-refugio-perros-gatos.jpg)
+-
 [Test de Personalidad!](https://h5p.org/node/1479617)
 
 #### - Banner/Teaser:  (enlace) 
