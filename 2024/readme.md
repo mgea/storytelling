@@ -16,14 +16,22 @@ Digital Storytelling / Narraciones y creatividad en ecosistema digital 2023/24
   * Interactivo personaje: https://h5p.org/node/1479233
   
 - (3) **Astrid**
-
-  * Github: 
-  
-  * Interactivo:
+  * Github: https://github.com/klaudiapiszczek/Astridproyecto/
+  * Interactivo:  https://h5p.org/node/1479677
 
 - (15) **arthur keppler**
    * https://github.com/pauvich2/arthur-keppler/
    * Interactivo:
+
+- (9) **DAGO**
+   * https://github.com/AntonioFajardoMunoz/Dago/
+   * Quiz Encuentra la palabra: https://h5p.org/node/1479673?feed_me=nps
+   * Memory card: https://planetadago.h5p.com/content/1292222833728486287
+   * Presentación personajes. [Canva](https://www.canva.com/design/DAF_2v8oun4/DBXE534Qu_UmfnPBg9v6uw/edit)
+
+
+     
+
 
 
 
