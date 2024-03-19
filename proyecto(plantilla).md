@@ -52,8 +52,8 @@ Mientras que la salud de Josema deteriora por su edad, el refugio de perros podr
 
 
 
-### Conclusiones/Valoración del equipo
-
+### - Conclusiones/Valoración del equipo:
+- Este documental quiere ser una forma de dar voz a aquellos que buscan ayudar a los animales más vulnerables y de compartir sus historias de esperanza, resiliencia y superación, donde cada animal es el protagonista de su propia historia. Se busca incentivar al público a dar una nueva vida los animales rescatados y ayudar al refugio a que siga en pie.
 ------
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CC-BY-SA-Andere_Wikis_%28v%29.svg/200px-CC-BY-SA-Andere_Wikis_%28v%29.svg.png)
 
