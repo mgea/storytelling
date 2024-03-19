@@ -21,7 +21,9 @@ Digital Storytelling / Narraciones y creatividad en ecosistema digital 2023/24
   
   * Interactivo:
 
-
+- (15) **arthur keppler**
+   * https://github.com/pauvich2/arthur-keppler/
+   * Interactivo:
 
 
 
@@ -40,7 +42,10 @@ Digital Storytelling / Narraciones y creatividad en ecosistema digital 2023/24
   * https://falsosecuestro.h5p.com/content/1292222835105769527
  
   
-- 
+- (14) **Arturo "El Rugido"**
+  * https://github.com/AhmedRod10/my_storytelling_G14/
+  * Interactivo: https://arturoelrugido.h5p.com/content/1292217260405166757
+    
 
 ## Historias Comic (animados) 
 
