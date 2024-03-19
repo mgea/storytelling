@@ -30,8 +30,9 @@ Digital Storytelling / Narraciones y creatividad en ecosistema digital 2023/24
    * Presentación personajes. [Canva](https://www.canva.com/design/DAF_2v8oun4/DBXE534Qu_UmfnPBg9v6uw/edit)
 
 
-     
-
+- (49 **URI: SalvarGenovia**     
+   * https://github.com/alynalab/salvarGenovia
+   * Cuestionario: https://h5p.org/node/1479454
 
 
 
@@ -53,7 +54,10 @@ Digital Storytelling / Narraciones y creatividad en ecosistema digital 2023/24
 - (14) **Arturo "El Rugido"**
   * https://github.com/AhmedRod10/my_storytelling_G14/
   * Interactivo: https://arturoelrugido.h5p.com/content/1292217260405166757
-    
+ 
+- (10) **Frederik García** 
+  * https://github.com/finercarlos/ElViajeInterminableDeFrederik
+  * Interactivo: https://h5p.org/node/1479674
 
 ## Historias Comic (animados) 
 
@@ -66,8 +70,23 @@ Digital Storytelling / Narraciones y creatividad en ecosistema digital 2023/24
 - (13) **MARXÚPITER**: Guerra Entre Dos Mundos
   * Github: https://github.com/itsnxyrx/my_storytelling/blob/main/MARX%C3%9APITER.md
   * Interactivo: https://marxupiter.h5p.com/content/1292222437719669167
+ 
+- (11) **Sally**
+  * https://github.com/Enriqueitor/my_storytelling_AVE/
+  * Hank (Personaje terciario) https://quizzlasombra.h5p.com/content/1292222050010450407
+  * https://quizzlasombra.h5p.com/content/1292222050010450407
+  * EL CUARTO DE SALLY https://quizzlasombra.h5p.com/content/1292222050010450407
+ 
+- (6) **ROSE**
+  * https://github.com/luciasalg/my_storytelling
+  * interactivo:https://h5p.org/node/1479678?feed_me=nps
 
-### Enlace a **[presentac iones] 
+- (1) **KARMA**
+  * https://github.com/nataliavargas08/Karma
+  * Interactivo: https://h5p.org/h5p/embed/1479676
+
+
+### 
 
 
 
