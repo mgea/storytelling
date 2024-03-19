@@ -6,11 +6,9 @@ Digital Storytelling / Narraciones y creatividad en ecosistema digital 2023/24
 
 ## Historias Ficción/Cyberpunk
 
-- (2) **Raoul el Travieso**
-
-  * Github: https://github.com/PresidenteGalactico/my_storytelling
-  
-  * Interactivo:  https://h5p.org/h5p/embed/1479679
+- (2) **Raoul** (A.K.A. El Travieso)
+ * Github: https://github.com/PresidenteGalactico/my_storytelling
+ * INteractivo: https://h5p.org/h5p/embed/1479679
   
 - (7) **Vitamina C**
   * Github: https://github.com/sabir0r0/storytelling/blob/master/proyecto(plantilla).md
@@ -24,9 +22,7 @@ Digital Storytelling / Narraciones y creatividad en ecosistema digital 2023/24
   * Interactivo:
 
 
-- (2) **Raoul*+ (A.K.A. El Travieso)
- * Github: https://github.com/PresidenteGalactico/my_storytelling
- * INteractivo: https://h5p.org/h5p/embed/1479679
+
 
 
 - (16) **FeyWild**
