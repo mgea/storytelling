@@ -22,6 +22,7 @@ Lista de repositorios:
 - Proyectos 2021 https://github.com/mgea/storytelling_21/tree/master/2021
 - Proyectos 2022 https://github.com/mgea/storytelling/tree/master/2022
 - Proyectos 2023 https://github.com/mgea/storytelling/tree/master/2023
+- Proyectos 2024 https://github.com/mgea/storytelling/tree/master/2024
 
 
 Web con los proyectos seleccionados  http://utopolis.ugr.es/media/HRUN/
