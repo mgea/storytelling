@@ -1,5 +1,5 @@
 # storytelling
-Digital Storytelling / Narraciones y creatividad en ecosistema digital, 2022
+Digital Storytelling / Narraciones y creatividad en ecosistema digital, 2024
 
 Actividades y trabajos prácticos de la asignatura de **Creación y Difusión de Nuevos Contenidos Audiovisuales**. 
 
@@ -41,3 +41,7 @@ Se puede consultar las tareas a realizar del [Proyecto](https://github.com/mgea/
 Todas las historia están basadas en una de estas líneas argumentales, [entra aquí para ver ideas para crear tu historia](https://github.com/mgea/storytelling/blob/master/What_is_a_digital_storytelling.md)  
 
 
+
+
+
+CCBY mgea 2018-2024
