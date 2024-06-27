@@ -25,9 +25,7 @@ Lista de repositorios:
 - Proyectos 2024 https://github.com/mgea/storytelling/tree/master/2024
 
 
-Web con los proyectos seleccionados  http://utopolis.ugr.es/media/HRUN/
-
-Plantilla para creación de nuevo proyecto: https://github.com/mgea/storytelling/blob/master/proyecto(plantilla).md 
+Plantilla (repositorio) para creación de nuevo proyecto: https://github.com/mgea/my_storytelling/
 
 
 ### Planning
