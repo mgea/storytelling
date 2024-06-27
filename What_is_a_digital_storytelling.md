@@ -10,7 +10,11 @@ Elige uno de los temas propuestos y comienza a desarrollar tu propia historia...
 
 # Historia F - Ficción. Basadas en una perspectiva CiberPunk 
 
-Algunso ejemplos de inspiración sobre hackers son: 
+El género cyberpunk es un subgénero de la ciencia ficción caracterizado por  reflejar visiones distópicas del futuro en las cuales se combinan la tecnología avanzada con un bajo nivel de vida. Este género es un caldo de cultivo muy interesante para crear personajes con conflictos, la importancia de la tecnología como elemento de alienación de las masas, y lla figura del hacker como anti-héroe. Hay muchas películas que tratan ese tema y frases que son legendarias: 
+
+Algunos ejemplos de inspiración sobre hackers son: 
+
+
 
 - *Cuando el sistema te observa, usa tus datos, y manipula, puedes entrar en sus entrañas con ayuda de los hackers y así revertir la situación*. Cita: [Fallo de Sistema 250, Radio3 2017](http://www.rtve.es/alacarta/audios/fallo-de-sistema/fallo-sistema-250-hackeando-sistema-08-01-17/3841523/)
 
