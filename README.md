@@ -16,9 +16,9 @@ EL objetivo con estos proyectos es experimentar sobre diferentes medios y estilo
 Lista de repositorios:
 
 
-- Proyectos 2018 https://github.com/mgea/storytelling/blob/master/2018/readme.md 
-- Proyectos 2019 https://github.com/mgea/storytelling/blob/master/2019/readme.md
-- Proyectos 2020 https://github.com/mgea/storytelling/blob/master/2020/readme.md
+- Proyectos 2018 https://github.com/mgea/storytelling/blob/master/2018
+- Proyectos 2019 https://github.com/mgea/storytelling/blob/master/2019
+- Proyectos 2020 https://github.com/mgea/storytelling/blob/master/2020
 - Proyectos 2021 https://github.com/mgea/storytelling_21/tree/master/2021
 - Proyectos 2022 https://github.com/mgea/storytelling/tree/master/2022
 - Proyectos 2023 https://github.com/mgea/storytelling/tree/master/2023
