@@ -38,6 +38,11 @@ Algunos ejemplos de inspiración sobre hackers son:
 
 # Historia R - Basadas en Realidad y tribus urbanas
 
+
+Las historias de personajes singulares que pueden convivir en nuestro entorno es otro motivo de inspiración para generación de narrativas basadas en [tribus urbanas](https://psicologiaymente.com/cultura/tribus-urbanas), la idea es crear historias sobre personajes con características peculiares que los hacen memorables. Por ejemplo podemos ver algunos casos de esos personajes como la historia de [El Dioni](https://ethic.es/2024/03/como-y-por-que-el-dioni-se-convirtio-en-un-heroe-popular/) o [el padre Apeles](https://ca.wikipedia.org/wiki/Josep_Apel%C2%B7les_Santolaria_de_Puey_i_Cruells)
+
+Algunas frases motivadoras para estas historias pueden ser: 
+
 - *Las probabilidades de que no vivamos en un universo simulado son de una entre billones* (Elon Musk, fundador de Tesla) 
 
 - *Los emoticono nacieron como apoyo al lenguaje escrito, como ayuda para interpretar algo que la lengua escrita no podía representar*
@@ -48,6 +53,10 @@ Algunos ejemplos de inspiración sobre hackers son:
 
 
 # Historia C - Basadas en Comics 
+
+Los cómics es un género donde puedes crear personajes desde cero con unas características que pueden ser muy maleables. La folosofía y personalidad del personaje puede dar rienda suelta a historias abiertas, como el caso de [Mafalda](https://www.xataka.com/magnet/29-vinetas-de-mafalda-que-definen-perfectamente-el-panorama-sociopolitico-de-2016) o [Makinavaja](https://www.rtve.es/noticias/20151203/vuelve-makinavaja-chorizo-filosofo/1266024.shtml) 
+
+
 
 
 
