@@ -30,7 +30,7 @@ Plantilla (repositorio) para creación de nuevo proyecto: https://github.com/mge
 
 ### Planning
 
-Se puede consultar las tareas a realizar del [Proyecto](https://github.com/mgea/storytelling/projects)
+Se puede consultar las tareas a realizar del [Proyecto](https://github.com/users/mgea/projects/3)
 
 
 ### ¿Qué es un storytelling digital?
