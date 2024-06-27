@@ -1,5 +1,5 @@
 
-# Qué es una narrativa digital.md
+# Qué es una narrativa digital
 
 
 ### Sinopsis
