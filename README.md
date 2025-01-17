@@ -1,7 +1,7 @@
 # storytelling
-Digital Storytelling / Narraciones y creatividad en ecosistema digital, 2024
+Digital Storytelling / Narraciones y creatividad en ecosistema digital, 2025
 
-Actividades y trabajos prácticos de la asignatura de **Creación y Difusión de Nuevos Contenidos Audiovisuales**. 
+Actividades y trabajos prácticos de la asignatura de **Creatividad y innovación Audiovisual**. 
 
 Facultad de Comunicación y Documentación, Universidad de Granada 
 
@@ -14,8 +14,7 @@ EL objetivo con estos proyectos es experimentar sobre diferentes medios y estilo
 
 
 Lista de repositorios:
-
-
+**Previos de Creación y Difusión de Nuevos Contenidos Audiovisuales**. 
 - Proyectos 2018 https://github.com/mgea/storytelling/blob/master/2018
 - Proyectos 2019 https://github.com/mgea/storytelling/blob/master/2019
 - Proyectos 2020 https://github.com/mgea/storytelling/blob/master/2020
@@ -44,4 +43,4 @@ Todas las historia están basadas en una de estas líneas argumentales, [entra a
 - S. BLOOM (2021) Principles of effective Storytelling https://sahilbloom.substack.com/p/principles-of-effective-storytelling
 - B. Hoguet (2014) What is interactive storytelling? https://benhoguet.medium.com/what-is-interactive-storytelling-46bfdd2a8780 
 
-CCBYSA mgea 2018-2024
+CCBYSA mgea 2018-2025
