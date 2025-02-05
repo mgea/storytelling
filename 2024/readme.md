@@ -38,7 +38,7 @@ Digital Storytelling / Narraciones y creatividad en ecosistema digital 2023/24
 - (16) **FeyWild**
   * Presentación https://drive.google.com/file/d/1LNKdylB4MoMwK_UBgq4HfgT_24OAn6s5/view?usp=drivesdk
   * Github. https://github.com/angerygremlin/storytelling 
-  * Ficha personaje [Feywild]([https://github.com/angerygremlin/storytelling/blob/Gu%C3%ADa-para-encontrar-el-amor-en-el-Feywild/proyecto(plantilla).md](https://github.com/angerygremlin/angerygremlin.github.io/blob/Gu%C3%ADa-para-encontrar-el-amor-en-el-Feywild/READ%20ME%20proyecto.md))
+  * Ficha personaje [Feywild](https://github.com/angerygremlin/angerygremlin.github.io/blob/Gu%C3%ADa-para-encontrar-el-amor-en-el-Feywild/READ%20ME%20proyecto.md)
   * Interactivo: https://h5p.org/node/1478551
   
 
