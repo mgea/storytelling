@@ -2,14 +2,14 @@
 
 Digital Storytelling / Narraciones y creatividad en ecosistema digital, 2025
 
-Actividades y trabajos prácticos de la asignatura de **[Creatividad y innovación Audiovisual](https://www.ugr.es/estudiantes/grados/grado-comunicacion-audiovisual/creacion-difusion-nuevos-contenidos-audiovis)**. 
+Actividades y trabajos prácticos de la asignatura **[Creatividad e innovación Audiovisual](https://www.ugr.es/estudiantes/grados/grado-comunicacion-audiovisual/creacion-difusion-nuevos-contenidos-audiovis)**. 
 
-Facultad de Comunicación y Documentación, Universidad de Granada 
+[Facultad de Comunicación y Documentación](https://fcd.ugr.es/), Universidad de Granada 
 
 
 ### Qué es storytelling?  
 
-EL objetivo con estos proyectos es experimentar sobre diferentes medios y estilos de publicación la creación de historias, personajes y modos de difusión. 
+El objetivo con estos proyectos es experimentar sobre diferentes medios y estilos de publicación la creación de historias, personajes y modos de difusión. 
 
 ### Proyectos seleccionados 
 
@@ -42,6 +42,7 @@ Todas las historia están basadas en una de estas líneas argumentales, [entra a
 #### Bibliografía
 
 - S. BLOOM (2021) Principles of effective Storytelling https://sahilbloom.substack.com/p/principles-of-effective-storytelling
-- B. Hoguet (2014) What is interactive storytelling? https://benhoguet.medium.com/what-is-interactive-storytelling-46bfdd2a8780 
+- B. Hoguet (2014) What is interactive storytelling? https://benhoguet.medium.com/what-is-interactive-storytelling-46bfdd2a8780, que es parte del blog [New Narratives](https://www.benhoguet.com/en/)
+
 
 CCBYSA mgea 2018-2025
