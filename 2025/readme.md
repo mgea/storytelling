@@ -21,7 +21,7 @@ Evaluación de las Historias: https://forms.gle/bJ84nDT932LKhAvv6
   * Interactivo: https://app.lumi.education/api/v1/run/h2vn7e/embed
   
 - (F3) **ZEKKE RINKU**
-  * Github: https://github.com/bysergiio/my_storytelling
+  * Github: [https://github.com/bysergiio/my_storytelling](https://github.com/bysergiio/zekke-rinku) 
   * Interactivo:  
 
 - (F4) **Robert Williams**
