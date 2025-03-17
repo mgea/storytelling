@@ -63,7 +63,7 @@ Evaluación de las Historias: https://forms.gle/bJ84nDT932LKhAvv6
 
 - (C2) **Proyecto Verónica**: Guerra Entre Dos Mundos
   * Github: https://github.com/marinarivas/Proyecto_Veronica
-  * Interactivo: 
+  * Interactivo:  https://app.lumi.education/h5p/descubre-si-escaparas-del-juicio-de-vernica-sols-aguantaras-viv-el1zg7
  
 - (C3) **Cafeína**
   * https://github.com/fulsangmaria/cafeina
