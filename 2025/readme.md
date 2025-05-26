@@ -32,7 +32,7 @@ Evaluación FINAL de los proyectos: https://forms.gle/micjMoPCKtSJ8jQT9
   * Interactivo:  
 
 - (F4) **Robert Williams**
-   * Github: [https://github.com/hugoolivencia/my_storytelling](https://github.com/hugoolivencia/RobertWilliams)
+   * Github: https://github.com/hugoolivencia/RobertWilliams
    * Interactivo:
 
 
