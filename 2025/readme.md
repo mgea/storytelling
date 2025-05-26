@@ -3,13 +3,12 @@
 
 Digital Storytelling / Narraciones y creatividad en ecosistema digital 2024/25
 
+![historias2025](portada.png)
+
+
+
 Evaluación FINAL de las Historias: https://forms.gle/micjMoPCKtSJ8jQT9
 
-
-
-
-
-¿Recuerdas las historias?  https://app.Lumi.education/run/ypSVLb
 
 
 ## Historias Ficción/Cyberpunk
@@ -89,7 +88,7 @@ Evaluación FINAL de las Historias: https://forms.gle/micjMoPCKtSJ8jQT9
 -----
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CC-BY-SA-Andere_Wikis_%28v%29.svg/200px-CC-BY-SA-Andere_Wikis_%28v%29.svg.png)
 
-Marzo 2025 
+Mayo 2025 
 
 [Creatividad e Innovación Audiovisual, 1ª edición](http://github.com/CRIAv)
 
