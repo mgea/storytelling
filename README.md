@@ -4,6 +4,8 @@ Digital Storytelling / Narraciones y creatividad en ecosistema digital, 2025
 
 Actividades y trabajos prácticos de la asignatura **[Creatividad e innovación Audiovisual](https://www.ugr.es/estudiantes/grados/grado-comunicacion-audiovisual/creacion-difusion-nuevos-contenidos-audiovis)**. 
 
+  * Enlace a Github Repo de CRIAv -> https://github.com/mgea/CRIAv
+
 [Facultad de Comunicación y Documentación](https://fcd.ugr.es/), Universidad de Granada 
 
 
