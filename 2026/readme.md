@@ -54,6 +54,8 @@ Evaluación FINAL de los proyectos:
 * R5-Simios	**Jairrente**		
 	* https://github.com/dariopaezugr/MotrilVice
 	* CharacterAI: [https://character.ai/chat/jid5HYjBzEf2YZDreglWqH_NVgxWVVhhTf_iWTShzeM](https://character.ai/chat/jid5HYjBzEf2YZDreglWqH_NVgxWVVhhTf_iWTShzeM)
+   * Arcweave: [https://arcweave.com/app/project/1M62rzo6wr](https://arcweave.com/app/project/1M62rzo6wr)  
+	- Teaser:
 
 * R3-Azulea	**Paloma**		
 	* https://github.com/nereavalg/Paloma
@@ -88,8 +90,9 @@ Evaluación FINAL de los proyectos:
 	* https://app.lumi.education/run/TO21Mv"
 
 * C7-Hentai 7w7	**Onika Tacos**
-		* https://github.com/atpe208/onika_tacos
-		* https://app.lumi.education/run/6OCavk
+	* https://github.com/atpe208/onika_tacos
+	* https://app.lumi.education/run/6OCavk
+  	* Arcweave: https://arcweave.com/app/project/7rEYeRbEP3
 
 
 
