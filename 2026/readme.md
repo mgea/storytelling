@@ -24,7 +24,7 @@ Evaluación FINAL de los proyectos:
 
 - F6-SORPRESA	**SORpresa**
 	- https://github.com/matildablanco/SORpresa	
-	https://app.lumi.education/run/5e4a7u
+	- https://app.lumi.education/run/5e4a7u
 
 * F2-Sonora	**Jessi.exe**		
 	* https://github.com/Rebecush/Jessy.exe
