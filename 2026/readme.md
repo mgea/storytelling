@@ -42,13 +42,6 @@ Evaluación FINAL de los proyectos: https://forms.gle/Au4cdqVUXjQct6L68
    * ArcWeave: https://arcweave.com/app/project/qMEvBMQE8Z/play
 
 
-* F12-narcoErotico	**El Mencho**		
-	* https://github.com/oskipadi/el-mecho/issues/1#issue-4120087146
-	* https://app.lumi.education/run/F8tVMB
-	* Chatbot: [https://character.ai/chat/9DpztDRbax8QUsEDnelVVpSN7EIK2GOIr3uaXsJ-_gE](https://character.ai/chat/9DpztDRbax8QUsEDnelVVpSN7EIK2GOIr3uaXsJ-_gE)
-    * **arcweave** https://arcweave.com/app/project/WNlKn8B0z1
-
-
 
 * F14-**Pedrito**		
 	* https://github.com/hector294/my_storytelling	
@@ -83,6 +76,16 @@ Evaluación FINAL de los proyectos: https://forms.gle/Au4cdqVUXjQct6L68
 	* https://github.com/Paolamesa/my_storytelling/
 	* https://app.lumi.education/run/gwIgIV
     * Figma: https://www.figma.com/proto/y0xsb6VEDeeoJEOA7KJfaz/Sin-t%C3%ADtulo?node-id=1-2706&p=f&t=qIlCINuZ7r2JDG4E-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=1%3A2706
+
+
+
+* F12-narcoErotico	**El Mencho**		
+	* https://github.com/oskipadi/el-mecho/issues/1#issue-4120087146
+	* https://app.lumi.education/run/F8tVMB
+	* Chatbot: [https://character.ai/chat/9DpztDRbax8QUsEDnelVVpSN7EIK2GOIr3uaXsJ-_gE](https://character.ai/chat/9DpztDRbax8QUsEDnelVVpSN7EIK2GOIr3uaXsJ-_gE)
+    * **arcweave** https://arcweave.com/app/project/WNlKn8B0z1
+
+
 
 ## Historias Comic (animados) 
 
