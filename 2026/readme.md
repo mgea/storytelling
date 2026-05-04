@@ -84,7 +84,7 @@ Evaluación FINAL de los proyectos: https://forms.gle/Au4cdqVUXjQct6L68
 	* https://app.lumi.education/run/F8tVMB
 	* Chatbot: [https://character.ai/chat/9DpztDRbax8QUsEDnelVVpSN7EIK2GOIr3uaXsJ-_gE](https://character.ai/chat/9DpztDRbax8QUsEDnelVVpSN7EIK2GOIr3uaXsJ-_gE)
     * **arcweave** https://arcweave.com/app/project/WNlKn8B0z1
-
+     * teaser https://www.figma.com/proto/6BSsyvQN4uUSfmA7jSj0qj/CRIAV-Demo?node-id=287-362&t=Fum2TxC8ljwUDsO9-1&scaling=contain&content-scaling=fixed&page-id=205%3A243&starting-point-node-id=287%3A362&show-proto-sidebar=1
 
 
 ## Historias Comic (animados) 
