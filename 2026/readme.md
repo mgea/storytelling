@@ -56,7 +56,7 @@ Evaluación FINAL de los proyectos: https://forms.gle/Au4cdqVUXjQct6L68
 	* https://github.com/dariopaezugr/MotrilVice
 	* CharacterAI: [https://character.ai/chat/jid5HYjBzEf2YZDreglWqH_NVgxWVVhhTf_iWTShzeM](https://character.ai/chat/jid5HYjBzEf2YZDreglWqH_NVgxWVVhhTf_iWTShzeM)
    * Arcweave: [https://arcweave.com/app/project/1M62rzo6wr](https://arcweave.com/app/project/1M62rzo6wr)  
-	- Teaser:
+	- Teaser:  https://www.figma.com/proto/6BSsyvQN4uUSfmA7jSj0qj/CRIAV-Demo?node-id=720-841&t=fi6XLo4mUZzdYE7y-1&scaling=contain&content-scaling=fixed&page-id=205%3A243&starting-point-node-id=720%3A841&show-proto-sidebar=1
 
 * R3-Azulea	**Paloma**		
 	* https://github.com/nereavalg/Paloma
