@@ -25,6 +25,8 @@ Evaluación FINAL de los proyectos: https://forms.gle/Au4cdqVUXjQct6L68
 - F6-SORPRESA	**SORpresa**
 	- https://github.com/matildablanco/SORpresa	
 	- https://app.lumi.education/run/5e4a7u
+    - teaser: https://www.figma.com/design/6BSsyvQN4uUSfmA7jSj0qj/CRIAV-Demo?node-id=1010-454&t=jXaZYbNen9oGMRgY-0
+    - ArcWeave: https://arcweave.com/app/project/1M62yooEwr
 
 * F2-Sonora	**Jessi.exe**		
 	* https://github.com/Rebecush/Jessy.exe
@@ -96,7 +98,8 @@ Evaluación FINAL de los proyectos: https://forms.gle/Au4cdqVUXjQct6L68
 	* ¿Crees conocer la historia? Demuéstralo completando el crucigrama!! https://universidaddegranada.h5p.com/content/1292852720260628727 
 	* Character AI: [https://character.ai/character/vkgq2DY-](https://character.ai/character/vkgq2DY-)
    * ArcWeave: https://arcweave.com/app/project/3G6Jj8D6AJ?board=630fdb8a-48d6-473e-9974-2460f7eb2b41&scale=0.506685&coords=-27720.018797176373,-29865.342998492702
-   * 
+   * Teaser: https://www.figma.com/site/pZPXdF4iWvVfyBjDzir76v/
+   
 
 * C10-Manolo Playa	**Manolo y la abuela mecánica**	
 	* https://github.com/esilheji04-sys/Manolo_abuela
