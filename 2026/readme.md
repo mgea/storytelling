@@ -48,6 +48,7 @@ Evaluación FINAL de los proyectos: https://forms.gle/Au4cdqVUXjQct6L68
 * F14-**Pedrito**		
 	* https://github.com/hector294/my_storytelling	
 	* ArcWeave: https://arcweave.com/app/project/DvlOqVy6dx
+    * Teaser: https://www.figma.com/design/kr2ExuItkrvOukpvc8RxZT/Untitled?node-id=0-1&t=4OzYOSNCcnb8NGi9-1	
 
 
 
@@ -78,6 +79,7 @@ Evaluación FINAL de los proyectos: https://forms.gle/Au4cdqVUXjQct6L68
 	* https://github.com/Paolamesa/my_storytelling/
 	* https://app.lumi.education/run/gwIgIV
     * Figma: https://www.figma.com/proto/y0xsb6VEDeeoJEOA7KJfaz/Sin-t%C3%ADtulo?node-id=1-2706&p=f&t=qIlCINuZ7r2JDG4E-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=1%3A2706
+    * Arcweave - https://arcweave.com/app/project/BP6BWxQ0YN/play
 
 
 
