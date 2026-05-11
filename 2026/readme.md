@@ -18,7 +18,7 @@ Evaluación FINAL de los proyectos: https://forms.gle/Au4cdqVUXjQct6L68
 	* https://github.com/eluciamiranda-code/my_storytelling
 	* https://app.lumi.education/run/x1piMH 
 	* chatbot: Enlace chatbot: [https://character.ai/chat/O6pWX8ZO5RHvGG_Mw6AVSEWsXLLJSpeAkBSELtoKh2c](https://character.ai/chat/O6pWX8ZO5RHvGG_Mw6AVSEWsXLLJSpeAkBSELtoKh2c)
-	* **teaser:** [https://www.figma.com/proto/6BSsyvQN4uUSfmA7jSj0qj/CRIAV-Demo?node-id=493-333&p=f&t=M88muKd5mUr4IKYx-0&scaling=scale-down&content-scaling=fixed&page-id=205%3A243&starting-point-node-id=493%3A333&show-proto-sidebar=1](https://www.figma.com/proto/6BSsyvQN4uUSfmA7jSj0qj/CRIAV-Demo?node-id=493-333&p=f&t=M88muKd5mUr4IKYx-0&scaling=scale-down&content-scaling=fixed&page-id=205%3A243&starting-point-node-id=493%3A333&show-proto-sidebar=1) 
+	* **teaser:** [enlace](https://www.figma.com/proto/6BSsyvQN4uUSfmA7jSj0qj/CRIAV-Demo?node-id=962-434&t=Q1PkuX1gg1CuHs5k-0&scaling=contain&content-scaling=fixed&page-id=205%3A243&starting-point-node-id=962%3A434&show-proto-sidebar=1)
 
 	* **ArcWeave:** [https://arcweave.com/app/project/DvlOqg96dx/play](https://arcweave.com/app/project/DvlOqg96dx/play)
 
