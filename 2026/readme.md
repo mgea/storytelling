@@ -106,7 +106,8 @@ Evaluación FINAL de los proyectos: https://forms.gle/5bdAvbipjic8v8T88
    * Teaser: https://www.figma.com/site/pZPXdF4iWvVfyBjDzir76v/
    
 
-* C10-Manolo Playa	**Manolo y la abuela mecánica**	
+* C10-Manolo Playa	**Manolo y la abuela mecánica**
+    * GITHUB ACTUALIZADO : https://github.com/esilheji04-sys/cmi_manolo
 	* https://github.com/esilheji04-sys/Manolo_abuela
 	* https://app.lumi.education/run/gVydLG
 	*  Character AI:   [https://character.ai/chat/FHIM5HXyafSZWTCcG6ra6Zvcj-q4an5KGnWBXeVylwA](https://character.ai/chat/FHIM5HXyafSZWTCcG6ra6Zvcj-q4an5KGnWBXeVylwA)
